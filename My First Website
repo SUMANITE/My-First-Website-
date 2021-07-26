@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Suman Chakraborty</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="icon" href="favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Montserrat:wght@100&family=Open+Sans&family=Sacramento&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div class="top-container">
+      <img class="top-cloud" src="Images/cloud.png" alt="clouds-img">
+      <h1>I Am Suman.</h1>
+      <h2>A <span class="pro">pro</span>grammer</h2>
+      <img class="bottom-cloud" src="Images/cloud.png" alt="clouds-img">
+      <img src="Images/mountain.png" alt="mountain-img">
+    </div>
+
+    <div class="middle-container">
+      <div class="profile">
+        <img src="https://scontent.fccu1-1.fna.fbcdn.net/v/t1.6435-9/217394211_302192115023013_3856538339719133734_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=d-u_j_Y3eAEAX9CJUYF&_nc_ht=scontent.fccu1-1.fna&oh=df1300adc2452c69458447eef31545b5&oe=61248FC6" alt="MY PHOTO" style="width : 100px;">
+        <h2>Hello</h2>
+          <p class="intro">I am a web devoloper and a phython learner & i love to sing .</p>
+      </div>
+      <hr>
+      <div class="skills">
+        <h2>My Skills.</h2>
+        <div class="skill-row">
+          <img class="devoloping-img" src="https://img-premium.flaticon.com/png/512/1329/premium/1329016.png?token=exp=1627290215~hmac=96cbb358e7f7261652da944b847aec0e" alt="My Skills" style="width: 110px;">
+          <h3>Devoloping Website</h3>
+          <p>I always want to be an programmer but it was a challeng for me and after all struggle i just learn about devoloping websites.</p>
+        </div>
+        <div class="skill-row">
+          <img class="vocalist-img" src="https://image.flaticon.com/icons/png/512/199/199478.png" alt="Singing" style="width: 85px;">
+          <h3>Vocalist</h3>
+          <p>I never learn singing from anyone , i just put effort to push my limits towards singing and i always love to sing when my mood off and now it become my passion.</p>
+        </div>
+      </div>
+      <hr>
+      <div class="contact-me">
+        <h2>Get In Touch</h2>
+        <h3>Always feel free to contact.</h3>
+        <p class="contact-message">If you are looking for a full stack web devoloper and a entatainist so contact me.</p>
+        <a class="btn" href="mailto:sumanchakraborty.suman@gmail.com">CONTACT ME</a>
+      </div>
+    </div>
+
+    <div class="bottom-container"><!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Suman Chakraborty</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="icon" href="favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Montserrat:wght@100&family=Open+Sans&family=Sacramento&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div class="top-container">
+      <img class="top-cloud" src="Images/cloud.png" alt="clouds-img">
+      <h1>I Am Suman.</h1>
+      <h2>A <span class="pro">pro</span>grammer</h2>
+      <img class="bottom-cloud" src="Images/cloud.png" alt="clouds-img">
+      <img src="Images/mountain.png" alt="mountain-img">
+    </div>
+
+    <div class="middle-container">
+      <div class="profile">
+        <img src="https://scontent.fccu1-1.fna.fbcdn.net/v/t1.6435-9/217394211_302192115023013_3856538339719133734_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=d-u_j_Y3eAEAX9CJUYF&_nc_ht=scontent.fccu1-1.fna&oh=df1300adc2452c69458447eef31545b5&oe=61248FC6" alt="MY PHOTO" style="width : 100px;">
+        <h2>Hello</h2>
+          <p class="intro">I am a web devoloper and a phython learner & i love to sing .</p>
+      </div>
+      <hr>
+      <div class="skills">
+        <h2>My Skills.</h2>
+        <div class="skill-row">
+          <img class="devoloping-img" src="https://img-premium.flaticon.com/png/512/1329/premium/1329016.png?token=exp=1627290215~hmac=96cbb358e7f7261652da944b847aec0e" alt="My Skills" style="width: 110px;">
+          <h3>Devoloping Website</h3>
+          <p>I always want to be an programmer but it was a challeng for me and after all struggle i just learn about devoloping websites.</p>
+        </div>
+        <div class="skill-row">
+          <img class="vocalist-img" src="https://image.flaticon.com/icons/png/512/199/199478.png" alt="Singing" style="width: 85px;">
+          <h3>Vocalist</h3>
+          <p>I never learn singing from anyone , i just put effort to push my limits towards singing and i always love to sing when my mood off and now it become my passion.</p>
+        </div>
+      </div>
+      <hr>
+      <div class="contact-me">
+        <h2>Get In Touch</h2>
+        <h3>Always feel free to contact.</h3>
+        <p class="contact-message">If you are looking for<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Suman Chakraborty</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="icon" href="favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Montserrat:wght@100&family=Open+Sans&family=Sacramento&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div class="top-container">
+      <img class="top-cloud" src="Images/cloud.png" alt="clouds-img">
+      <h1>I Am Suman.</h1>
+      <h2>A <span class="pro">pro</span>grammer</h2>
+      <img class="bottom-cloud" src="Images/cloud.png" alt="clouds-img">
+      <img src="Images/mountain.png" alt="mountain-img">
+    </div>
+
+    <div class="middle-container">
+      <div class="profile">
+        <img src="https://scontent.fccu1-1.fna.fbcdn.net/v/t1.6435-9/217394211_302192115023013_3856538339719133734_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=d-u_j_Y3eAEAX9CJUYF&_nc_ht=scontent.fccu1-1.fna&oh=df1300adc2452c69458447eef31545b5&oe=61248FC6" alt="MY PHOTO" style="width : 100px;">
+        <h2>Hello</h2>
+          <p class="intro">I am a web devoloper and a phython learner & i love to sing .</p>
+      </div>
+      <hr>
+      <div class="skills">
+        <h2>My Skills.</h2>
+        <div class="skill-row">
+          <img class="devoloping-img" src="https://img-premium.flaticon.com/png/512/1329/premium/1329016.png?token=exp=1627290215~hmac=96cbb358e7f7261652da944b847aec0e" alt="My Skills" style="width: 110px;">
+          <h3>Devoloping Website</h3>
+          <p>I always want to be an programmer but it was a challeng for me and after all struggle i just learn about devoloping websites.</p>
+        </div>
+        <div class="skill-row">
+          <img class="vocalist-img" src="https://image.flaticon.com/icons/png/512/199/199478.png" alt="Singing" style="width: 85px;">
+          <h3>Vocalist</h3>
+          <p>I never learn singing from anyone , i just put effort to push my limits towards singing and i always love to sing when my mood off and now it become my passion.</p>
+        </div>
+      </div>
+      <hr>
+      <div class="contact-me">
+        <h2>Get In Touch</h2>
+        <h3>Always feel free to contact.</h3>
+        <p class="contact-message">If you are looking for a full stack web devoloper and a entatainist so contact me.</p>
+        <a class="btn" href="mailto:sumanchakraborty.suman@gmail.com">CONTACT ME</a>
+      </div>
+    </div><!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Suman Chakraborty</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="icon" href="favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Montserrat:wght@100&family=Open+Sans&family=Sacramento&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div class="top-container">
+      <img class="top-cloud" src="Images/cloud.png" alt="clouds-img">
+      <h1>I Am Suman.</h1>
+      <h2>A <span class="pro">pro</span>grammer</h2>
+      <img class="bottom-cloud" src="Images/cloud.png" alt="clouds-img">
+      <img src="Images/mountain.png" alt="mountain-img">
+    </div>
+
+    <div class="middle-container">
+      <div class="profile">
+        <img src="https://scontent.fccu1-1.fna.fbcdn.net/v/t1.6435-9/217394211_302192115023013_3856538339719133734_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=d-u_j_Y3eAEAX9CJUYF&_nc_ht=scontent.fccu1-1.fna&oh=df1300adc2452c69458447eef31545b5&oe=61248FC6" alt="MY PHOTO" style="width : 100px;">
+        <h2>Hello</h2>
+          <p class="intro">I am a web devoloper and a phython learner & i love to sing .</p>
+      </div>
+      <hr>
+      <div class="skills">
+        <h2>My Skills.</h2>
+        <div class="skill-row">
+          <img class="devoloping-img" src="https://img-premium.flaticon.com/png/512/1329/premium/1329016.png?token=exp=1627290215~hmac=96cbb358e7f7261652da944b847aec0e" alt="My Skills" style="width: 110px;">
+          <h3>Devoloping Website</h3>
+          <p>I always want to be an programmer but it was a challeng for me and after all struggle i just learn about devoloping websites.</p>
+        </div>
+        <div class="skill-row">
+          <img class="vocalist-img" src="https://image.flaticon.com/icons/png/512/199/199478.png" alt="Singing" style="width: 85px;">
+          <h3>Vocalist</h3>
+          <p>I never learn singing from anyone , i just put effort to push my limits towards singing and i always love to sing when my mood off and now it become my passion.</p>
+        </div>
+      </div>
+      <hr>
+      <div class="contact-me">
+        <h2>Get In Touch</h2>
+        <h3>Always feel free to contact.</h3>
+        <p class="contact-message">If you are looking for a full stack web devoloper and a entatainist so contact me.</p>
+        <a class="btn" href="mailto:sumanchakraborty.suman@gmail.com">CONTACT ME</a>
+      </div>
+    </div>
+
+    <div class="bottom-container">
+      <a class="footer-link" href="https://www.linkedin.com/in/suman-chakraborty-1b864a1b7/">LinkedIn</a>
+      <p class="copyright">© 2021 Suman Chakraborty.</p>
+    </div>
+
+  </body>
+</html>
+
+
+    <div class="bottom-container">
+      <a class="footer-link" href="https://www.linkedin.com/in/suman-chakraborty-1b864a1b7/">LinkedIn</a>
+      <p class="copyright">© 2021 Suman Chakraborty.</p>
+    </div>
+
+  </body>
+</html>
+ a full stack web devoloper and a entatainist so contact me.</p>
+        <a class="btn" href="mailto:sumanchakraborty.suman@gmail.com">CONTACT ME</a>
+      </div>
+    </div>
+
+    <div class="bottom-container">
+      <a class="footer-link" href="https://www.linkedin.com/in/suman-chakraborty-1b864a1b7/">LinkedIn</a>
+      <p class="copyright">© 2021 Suman Chakraborty.</p>
+    </div>
+
+  </body>
+</html>
+
+      <a class="footer-link" href="https://www.linkedin.com/in/suman-chakraborty-1b864a1b7/">LinkedIn</a>
+      <p class="copyright">© 2021 Suman Chakraborty.</p>
+    </div>
+
+  </body>
+</html>
